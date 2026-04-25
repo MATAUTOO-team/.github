@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile/matautoo-temp-banner.png" width="100%" alt="MATAUTOO Professional Banner">
+  <img src="banner.png" width="100%">
 </p>
 
 # Welcome-to-HKUST-MATAUTOO-team
